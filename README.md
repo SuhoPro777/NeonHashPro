@@ -7,7 +7,7 @@ Professional darajadagi hash va kriptografik operatsiyalar kutubxonasi.
 
 ## O'rnatish
 ```bash
-pip install neonhashpro
+pip install https://github.com/SuhoPro777/NeonHashPro.git
 ```
 
 ## Ishlatish
